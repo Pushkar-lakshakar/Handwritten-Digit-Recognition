@@ -70,8 +70,8 @@ digit-recognition/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/{your-username}/digit-recognition.git
-cd digit-recognition
+git clone https://github.com/Pushkar-lakshakar/Handwritten-Digit-Recognition.git
+cd Handwritten-Digit-Recognition
 ```
 
 ### 2. (Recommended) Create a virtual environment
@@ -102,9 +102,20 @@ pip install -r requirements.txt
 
 ---
 
+## Quick Run (Recommended)
+
+```bash
+pip install -r requirements.txt
+python predict.py --image sample_images/digit_7.png
+```
+
 ## Usage — Step-by-Step
 
 ### Step 1 — Train the model
+
+> **Note:**  
+> A pretrained model (`model/cnn_model.pth`) is already included.  
+> Training is optional and **not required** to run the project.
 
 ```bash
 python train.py
