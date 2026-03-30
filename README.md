@@ -1,4 +1,4 @@
-# Handwritten Digit Recognition using CNN (MNIST)
+# Handwritten Digit Recognition using CNN 
 
 > A command-line application that trains a Convolutional Neural Network (CNN) on the MNIST dataset and predicts handwritten digits (0–9) from image files.  
 > Achieves **~99.2% accuracy** on the MNIST test set with no GPU required.
@@ -19,6 +19,12 @@
 ---
 
 ## Project Overview
+
+In many real-world scenarios such as digitizing handwritten forms, reading postal codes, or processing bank cheques, there is a need to automatically recognize handwritten digits accurately.
+
+Manual data entry is time-consuming and error-prone. This project aims to build a computer vision system that can automatically recognize handwritten digits using deep learning techniques.
+
+The MNIST dataset is used as a benchmark to simulate this real-world problem.
 
 This project implements a **CNN-based handwritten digit classifier** trained on the standard MNIST benchmark dataset. The key goals aligned with course objectives are:
 
