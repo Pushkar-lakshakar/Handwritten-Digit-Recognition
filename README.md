@@ -7,14 +7,14 @@
 
 ## Table of Contents
 
-1. [Project Overview](#project-overview)
-2. [Repository Structure](#repository-structure)
-3. [Requirements & Setup](#requirements--setup)
-4. [Usage — Step-by-Step](#usage--step-by-step)
-5. [Model Architecture](#model-architecture)
-6. [Results](#results)
-7. [Dataset](#dataset)
-8. [Command-Line Reference](#command-line-reference)
+1. [Project Overview]
+2. [Repository Structure]
+3. [Requirements & Setup]
+4. [Usage — Step-by-Step]
+5. [Model Architecture]
+6. [Results]
+7. [Dataset]
+8. [Command-Line Reference]
 
 ---
 
