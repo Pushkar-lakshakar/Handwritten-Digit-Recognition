@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# MNIST raw data (large binary files, auto-downloaded)
+data/MNIST/
+
+# IDE settings
+.vscode/
+.idea/
+*.code-workspace
+
+# OS artefacts
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Byte-compiled / optimized / DLL files
+*.egg-info/
+dist/
+build/
