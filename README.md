@@ -53,8 +53,6 @@ digit-recognition/
 ├── generate_sample.py         # Exports sample images from MNIST test set
 │
 ├── requirements.txt           # Python dependencies
-├── .gitignore
-└── README.md
 ```
 
 ---
